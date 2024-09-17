@@ -12,7 +12,7 @@ body {
   min-height: 100vh;
   background: url("imagens/backg2.png");
   border: 2px solid red;
-  height: 890px;
+  height: 990px;
 }
 
 .top {
@@ -339,7 +339,7 @@ h2 {
 .autores{
   border:2px solid black;
   width: 60%;
-  margin-left: 210px;
+  margin-left: 320px;
 }
 
 .autores h3 {
@@ -351,7 +351,9 @@ h2 {
 
 p {
   font-size: 1.5em;
-  color: #fff9;
-  margin-left: 130px;
+  color: rgba(67, 15, 163, 0.849);
+  margin-left: 240px;
   margin-top: 15px;
+  border: 2px solid red;
+  width: 50%;
 }
